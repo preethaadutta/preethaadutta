@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/sergeybitos/sergeybitos1907/sergeybitos190700042/128187395-programming-concept-banner-software-web-development-programming-concept-programming-languages-java-c.jpg)](https://preethaadutta.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0OmrofgCWVmBGdnN1QQOgOYju7sftznBLEjz7JWSFV7CXY8HdhoY4goIc_eMVen_6cM&usqp=CAU)](https://preethaadutta.io)
 <h1 align="center">Hi 👋, I'm Preethaa Dutta 🙂 🙏</h1>
 <h3 align="center">A meticulous and organized individual having expertise in electronics field as well as passionate about implementing and launching new projects in IT, with intuitive problem solving skills in IT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
