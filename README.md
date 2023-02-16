@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preethaadutta&show_icons=true&locale=en" alt="preethaadutta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preethaadutta&" alt="preethaadutta" /></p>
+<h3 align="center"> ❤Thank You For Visiting My Github Profile❤ </h3>
