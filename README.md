@@ -1,13 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGA-K6XHLff9g/profile-displaybackgroundimage-shrink_200_800/0/1664520380269?e=2147483647&v=beta&t=sGwiiqVxvQN50BLK7hXyuFW0Ok-J2OihrqbXL8P3wcQ)](https://preethaadutta.io)
 <h1 align="center">Hi 👋, I'm Preethaa Dutta 🙂 🙏</h1>
-<h3 align="center">A meticulous and organized individual having expertise in electronics field as well as passionate about implementing and launching new projects in IT, with intuitive problem solving skills in IT</h3>
+<h3 align="center">A meticulous and organized individual having expertise in electronics field as well as passionate about implementing and launching new projects, with intuitive problem solving skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethaadutta&label=Profile%20views&color=0e75b6&style=flat" alt="preethaadutta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/preethaad" target="blank"><img src="https://img.shields.io/twitter/follow/preethaad?logo=twitter&style=for-the-badge" alt="preethaad" /></a> </p>
 
-- 💬 Ask me about **Java, JSP, Servlet, JDBC, C, DBMS, MySQL 😊**
+- 💬 Ask me about **Java, JSP, Servlet, JDBC, C, DBMS, MySQL, MS Excel 😊**
 
 - 📫 How to reach me **preethaa.dutta@gmail.com 🤩**
 
