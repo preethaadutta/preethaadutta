@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGA-K6XHLff9g/profile-displaybackgroundimage-shrink_200_800/0/1664520380269?e=2147483647&v=beta&t=sGwiiqVxvQN50BLK7hXyuFW0Ok-J2OihrqbXL8P3wcQ)](https://preethaadutta.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEJ1u308Cv-rA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709878867619?e=1733356800&v=beta&t=p7Tr5RnykKNrcBJYJyiq8or2KEjhpd4lbvhuKF_3H0I)](https://preethaadutta.io)
+
 <h1 align="center">Hi 👋, I'm Preethaa Dutta 🙂 🙏</h1>
 <h3 align="center">A meticulous and organized individual having expertise in electronics field as well as passionate about implementing and launching new projects, with intuitive problem solving skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
