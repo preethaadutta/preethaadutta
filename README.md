@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/preethaad" target="blank"><img src="https://img.shields.io/twitter/follow/preethaad?logo=twitter&style=for-the-badge" alt="preethaad" /></a> </p>
 
-- 💬 Ask me about **Java, JSP, Servlet, JDBC, C, DBMS, MySQL, MS Excel 😊**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, PHP, Figma, WordPress, Wix, Java, JSP, Servlet, JDBC, C, DBMS, MySQL, MS Excel 😊**
 
 - 📫 How to reach me **preethaa.dutta@gmail.com 🤩**
 
